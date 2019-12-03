@@ -3,7 +3,11 @@ h1 {
     text-align: center;
 }
 ul {
-    color: #ed6363;
+    color: #ee3333;
+}
+#centered {
     margin: auto;
-    width: 50%
+    width: 50%;
+    background-color: #eeeeee;
+    border: 3px solid green;
 }
